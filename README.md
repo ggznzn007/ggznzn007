@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+![snake gif](https://github.com/ggznzn007/ggznzn007/blob/output/github-contribution-grid-snake.svg)
 <!--
 **ggznzn007/ggznzn007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![snake gif](https://github.com/[GitHub 아이디]/[GitHub 아이디]/blob/output/github-contribution-grid-snake.svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
